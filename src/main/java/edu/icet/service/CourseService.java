@@ -1,6 +1,6 @@
 package edu.icet.service;
 
-import edu.icet.dto.Course;
+import edu.icet.entity.Course;
 
 import java.util.ArrayList;
 import java.util.List;
